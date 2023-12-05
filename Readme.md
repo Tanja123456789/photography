@@ -7,4 +7,4 @@
 **Lärare: Jakob** _nnnnnn_
 
 
-[länk text](https://www.google.com) 
+(https://chat.openai.com/)https://chat.openai.com/) 
